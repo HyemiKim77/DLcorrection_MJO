@@ -1,0 +1,13 @@
+
+## Main_shell script: 
+
+- Set up the LSTM LOOCV for each models (main_shell.csh)
+(model name, forecast lead time, period, etc)
+
+## Processes of the DL-correction (loocv.csh)
+
+ - Training with S2S datasets (loocv.csh)
+   
+       (1) training (from DATA/*rmm.gdat)
+
+ - Testing with S2S datasets (loocv.csh)
