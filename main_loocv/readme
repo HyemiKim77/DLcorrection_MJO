@@ -1,7 +1,7 @@
 
 ## Main_shell script: 
 
-- Set up the LSTM LOOCV for each models (main_shell.csh)
+- Set up the LSTM LOOCV for each models (main.csh)
 (model name, forecast lead time, period, etc)
 
 ## Processes of the DL-correction (loocv.csh)
