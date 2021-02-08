@@ -1,7 +1,10 @@
 # DLcorrection_MJO
 Deep-learning Bias correction for MJO prediction
 
-# LSTM
+# Main
+- main script
+
+# LSTM model
 
 - source code for DL correction forecast
 
